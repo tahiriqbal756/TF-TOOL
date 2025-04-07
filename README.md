@@ -32,3 +32,5 @@ Make sure your Termux is updated, then install the following:
 pkg update && pkg upgrade -y
 pkg install python -y
 pip install flask
+git clone https://github.com/tahiriqbal756/TF-TOOL.git
+python main.py
